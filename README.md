@@ -1,6 +1,6 @@
 # bikesharing
 ## Overview
-This was an analysis to review if the the bikesharing model being used in NYC can be used as a business proposal for a different city. It was to help with encouraging investors to have as much information as possible that would help them make a decision about investing in the project.
+This was an analysis to review if the bike sharing model being used in NYC can be used as a business proposal for a different city. It was to help with encouraging investors to have as much information as possible that would help them make a decision about investing in the project.
 
 ### Resources Used
 - Pandas to change the "tripduration" column from an integer to a datetime datatype.
@@ -17,4 +17,4 @@ Top 10 Ending Locations:
 ![Top_10_Ending_locations](https://user-images.githubusercontent.com/36766602/163239549-8584e61e-b313-4dd7-b32d-299f44165b55.jpg)
 
 ## Summary
-The analysis showed the patterns and behaviors around the bike calture and gives insight to the investors about peak hours, peak areas, slow hours that could be used for maintenance, difference in rental behaviors between genders, etc. I hope it helps the investor make the correct decision. 
+The analysis showed the patterns and behaviors around the bike culture and gives insight to the investors about peak hours, peak areas, slow hours that could be used for maintenance, difference in rental behaviors between genders, etc. I hope it helps the investor make the correct decision. 
